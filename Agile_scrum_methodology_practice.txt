@@ -1,0 +1,131 @@
+                              AGILE  METHODOLOGY
+                     ------------------------------	  
+							  
+DEFINATION :
+-----------------
+Agile follows Iterative(repeating the process) and incremental(we keep on adding the new features) approach.
+Agile is Iterative and incremental process.
+
+PRINCIPLES :
+------------------
+Customer no need to wait for longer time.
+We develop, test and release piece of software to the customer with few number of features.
+We can accept requirement changes from the customer at any stage of development.
+There will be good communication between Customer, Business Analyst, Developers and Testers.
+
+
+ADVANTAGES:
+-----------------
+Delivery is very fast in agile process (within two to three weeks we deliver piece of software).
+good communication between team.
+It is very easy to adopt.
+
+DISADVANTAGES:-
+------------------------
+Less focus on design and Documentation since we deliver software very fast. 
+
+
+SCRUM :
+--------------------
+Scrum is framework through which we build a software product by following Agile Principles.
+In scrum group of people are involved called SCRUM Team, Normally there are 5-9 members.
+there are 4 type of people involved
+1) Product Owner.
+2) Scrum Master.
+3) Dev Team
+4) QA Team.
+
+1) Product Owner:
+-------------------
+   Product Owner always contact to customer. take requirements from customer.
+   Define the feature of the product.
+   Prioritize features according to market value.
+   Adjust features and priorities in every iteration, as needed
+   Accept or reject work result.
+   
+2) Scrum Master:
+--------------------
+   The main role is Facilitating and driving the agile process.
+   
+3) Dev and QA:
+--------------------
+   developing and testing the software.
+   
+Scrum Terminology:
+-----------------------------
+Product owner will define the features in the form of User stories and Epic.
+
+User Story          : A feature/Module in Software.
+Epic                : Collection of User stories, epic is large requirement, prepared by product owner.
+Product Backlog     : Contains list of user stories. Prepared by product owner.
+
+Sprint/Iteration    : Period of time to complete user stories, decided by the product owner and team, 
+                      usually 2-4 weeks of time.
+					  
+Sprint Planning     : Meeting conduct with the team to decide what can be delivered in the sprint and duration.
+Meeting           
+Sprint Backlog      : List of committed stories by Dev/QA for specific sprint.
+
+Scrum Meeting       : Meeting conducted by scrum master everyday 15 min. Called as scrum call/Standup meeting.
+                      what did you done yesterday?
+                      what you will do today?
+                      Are there any problems/blocker in your task?
+					  
+Sprint Retrospective: Conducts meeting after completion of sprint. The entire team, including both the Scrum master
+Meeting               and product owner should participate.	
+
+Story point         : Rough estimation of user stories, will be given by Dev/QA in the form of 
+                      Fibonacci series.
+					  1 story point = 1 hour/ 1 day
+					 
+Burndown chart      : Shows how much work remaining in the sprint. Maintained by the scrum master daily. 	
+
+
+Roles:
+----------
+1) Product Owner
+2) Scrum Master
+3) team				  
+
+Artefacts:
+----------
+1) Product Backlog
+2) Sprint Backlog
+3) Burndown Chart
+
+Ceremonies:
+-----------
+1) Sprint Planning
+2) Daily Scrum 
+3) Sprint Review
+
+SCRUM BOARD:
+-------------
+Scrum board is maintain by the team. 
+this the table which contains columns like, Stories, To do , In Progress, Testing, Done(completed stories).
+It contains the data like  
+   how many stories are planned, 
+   how many to do stories,
+   how many are in progress,
+   how many completed testing,
+   how many are completed, and ready to deliver.
+   
+Each activity track using a tool called "Agile management tool", e.g. Jira
+
+Definition of Ready(DoR):
+----------------------------------
+
+User story must be clear, it is testable, feasible, clearly defined, every story has some acceptance criteria
+if these parameters are clearly defined then we can say story is ready. This is known as Definition of Ready.
+
+Definition of Done(DoD):
+----------------------------------
+Developer will designing the story, development, unittesting, integration testing, testcases created,
+testing is done, sanity , regression everything is fixed, bugs are fixed, there is no bug ,ready for demo 
+and demo is also completed then we can say ,story is completed.it satisfies all the parameters of 
+Definition of Done. 
+
+
+				 
+
+
